@@ -1,0 +1,9 @@
+[
+    
+{"id":1,"name":"RedShoes","price":"1000","color":"red" },
+{"id":2,"name":"BlueShoes","price":"2000","color":"blue"},
+{"id":3,"name":"YellowShoes","price":"3000","color":"yellow"},
+{"id":4,"name":"PinkShoes","price":"4000","color":"pink"},
+{"id":5,"name":"BlackShoes","price":"5000","color":"black"}
+
+]

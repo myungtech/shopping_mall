@@ -1,0 +1,25 @@
+.products {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar-logo {
+  color: black;
+  margin-right: 0.5em;
+}
+
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.yellow {
+  color: yellow;
+}
+.pink {
+  color: pink;
+}
+.black {
+  color: black;
+}

@@ -1,0 +1,28 @@
+.navbar {
+  font-size: 2rem;
+  padding: 1em;
+  background-color: grey;
+}
+
+.navbar-logo {
+  color: black;
+  margin-right: 0.5em;
+}
+
+.mall {
+  color: black;
+  outline: none;
+  text-decoration: none;
+}
+.mall:hover {
+  opacity: 0.5;
+  color: yellow;
+}
+.cart {
+  color: black;
+  text-decoration: none;
+}
+.cart:hover {
+  opacity: 0.5;
+  color: yellow;
+}

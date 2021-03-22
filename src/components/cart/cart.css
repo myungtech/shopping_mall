@@ -1,0 +1,12 @@
+.cartContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 4rem;
+}
+
+.cartTotalAmout {
+  text-align: center;
+  background-color: rgb(224, 216, 216);
+  width: 100%;
+}
